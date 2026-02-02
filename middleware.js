@@ -1,4 +1,4 @@
-const PASS_HASH = "2b4932f635721359115ea94ec6346217b4e943225ea01f3e2e8e6f04382a55fe";
+const PASS_HASH = "2268922e20afdc237a219ac77f365acaabf2c27bd1eb5e19a060996e607c5020";
 
 async function sha256(text) {
   const data = new TextEncoder().encode(text);
